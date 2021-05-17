@@ -1,2 +1,18 @@
  3  git config --global user.name "Gopal Das"
     4  git config --global user.email "Gopal1409@gmail.com"
+    
+    how to insitalize from git directory
+    19  mkdir project
+   20  cd project/
+   21  git status
+   22  git init
+   23  git status
+   24  ls -la
+   25  cd .git/
+   26  ls
+   27  cd ..
+   28  git status
+   29  rm -rf .git
+   30  git status
+   31  git init
+
