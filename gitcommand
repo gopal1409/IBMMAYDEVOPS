@@ -25,5 +25,18 @@
    39  git commit -m "calc.py"
    40  git logs
    41  git log
+   
+   Comparing commit
+   47  vi calc.py
+   48  git status
+   49  git commit -m "second commit"
+   50  git add calc.py
+   51  git commit -m "second commit"
+   52  git status
+   53  vi calc.py
+   54  git diff
+   55  git log
+   56  history
+
 
 
