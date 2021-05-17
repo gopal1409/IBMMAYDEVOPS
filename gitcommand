@@ -15,4 +15,15 @@
    29  rm -rf .git
    30  git status
    31  git init
+   
+   Our First Version in Git
+   34  touch calc.py
+   35  touch DS_Store
+   36  touch auth.ssh
+   37  git status
+   38  git add calc.py
+   39  git commit -m "calc.py"
+   40  git logs
+   41  git log
+
 
