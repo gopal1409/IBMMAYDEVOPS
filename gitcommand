@@ -38,5 +38,11 @@
    55  git log
    56  history
 
+How to push in remote repo
+81  vi calc.py
+   82  git status
+   83  git add calc.py
+   84  git commit -m "third commit"
+   85  git push -u origin master
 
 
