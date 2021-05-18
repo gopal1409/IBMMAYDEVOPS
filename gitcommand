@@ -57,3 +57,8 @@ git branches
    97  git commit -m "new changes in feature branch"
    98  git push origin feature
    99  git branch -a
+how to merge
+101  git checkout master
+  102  git branch
+  103  git merge feature
+  104  git push -u origin master
