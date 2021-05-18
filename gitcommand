@@ -45,4 +45,15 @@ How to push in remote repo
    84  git commit -m "third commit"
    85  git push -u origin master
 
-
+git branches
+89  git branch
+   90  git branch feature
+   91  git branch
+   92  git checkout feature
+   93  git branch
+   94  vi calc.py
+   95  git status
+   96  git add calc.py
+   97  git commit -m "new changes in feature branch"
+   98  git push origin feature
+   99  git branch -a
